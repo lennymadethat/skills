@@ -1,0 +1,34 @@
+STYLE — match this exactly, it is an established house style:
+Clean corporate flat-vector infographic on a pure WHITE background. Landscape 16:9.
+Palette: blue #0071BC as the dominant accent, deep navy #12294A for headings and body text, soft blue #EAF3FB for panel fills, red #ED1C24 used sparingly on two or three tiny details, green #00C49A for one status light only. No orange anywhere.
+Typography: a heavy CONDENSED UPPERCASE sans-serif for the main title and the zone titles (like Oswald), a clean humanist sans for subtitles, labels and captions. Title sits across the top in bold navy.
+Components: white rounded-rectangle cards with a thin light-blue border and a soft drop shadow, each carrying a small flat-illustration icon and a short bold label. ONE thin smooth blue connector line with small rounded arrowheads, tidy and mostly straight, never thick. Numbered markers are solid blue filled circles with a white numeral inside, sitting on the line.
+One friendly semi-realistic illustrated character only: a librarian with glasses and a cardigan in the centre, actively filing a card into a rolodex. No other people anywhere.
+Generous white space. Everything aligned to a clean grid. No clutter, no gradients on the background, no photographic textures.
+No company logos or brand marks of any kind anywhere.
+
+TEXT ACCURACY IS CRITICAL: render every word of specified text exactly as written, correctly spelled, fully legible, with no invented, duplicated, garbled or placeholder words. Do not add any text that is not specified. Prefer fewer, larger, perfectly rendered words over many small ones.
+
+LAYOUT — one clean left-to-right line. Before the librarian the line is single and tidy. Only after the librarian do small memory cards fan out into the library. The library on the right is the LARGEST object on the page, about one third of the width and the full working height.
+Title across the top, centred: "SECOND BRAIN"
+Subtitle under it: "Nothing is ever forgotten"
+
+LEFT, zone title "WORK", small subtitle under it "Any agent, any model": three small stacked white cards with icons, labelled only:
+"Your desk agent" (laptop icon)
+"Your phone agent" (smartphone icon)
+"Any AI" (small robot icon)
+Three short blue lines from the cards merge into ONE single horizontal blue line heading right.
+
+ON THAT LINE, about a quarter of the way across, a small standing book the line passes straight through, like a gate, drawn small, with a tab reading "AGENTS.md" and a tiny caption under it: "the rulebook". Numbered circle 1 just before it, label: "Work creates a memory". Numbered circle 2 just after it, label: "Filed by the rulebook".
+
+CENTRE, zone title "THE LIBRARIAN", small subtitle under it "MCP memory server": the librarian standing at a small desk, taking the memory off the line and sliding a card into a rolodex on the desk. On the desk front a row of five small blue pill tags reading exactly: "search" "read" "write" "append" "delete". Numbered circle 3 at the rolodex, label: "Vectorized into the index". Caption under the desk: "Stores each memory. Vectorizes it so it can be found by meaning."
+
+AFTER THE LIBRARIAN, several small plain white memory cards with a blue corner tab, no words on them, drawn simply, fan out along a few short curved blue lines into the library shelves. Numbered circle 4 on the main line, label: "Stored in the library".
+
+RIGHT, dominant, zone title "THE LIBRARY", small subtitle under it "Hosted database": a tall wide wall of library shelving, floor to top, drawn flat, blue frame, every shelf packed with the same small white memory cards and slim binders, thousands suggested. In front of the shelving on a small pedestal sits a large rolodex labelled "Vector index". Caption under the library: "Reach it from anywhere."
+
+Return path along the bottom, one thin blue line running right to left from the library back to the work cards, with two numbered circles:
+5 label: "Any agent asks a question"
+6 label: "The right memory comes back"
+
+Footer line, small grey text, bottom-left: "Works with any model. You own the files."

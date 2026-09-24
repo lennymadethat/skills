@@ -1,0 +1,29 @@
+STYLE — match this exactly, it is an established house style:
+Clean corporate flat-vector infographic on a pure WHITE background. Landscape 16:9.
+Palette: blue #0071BC as the dominant accent, deep navy #12294A for headings and body text, soft blue #EAF3FB for panel fills, with sparing status colours: green #00C49A (included), grey #9AA0A6 (not included).
+Typography: a heavy CONDENSED UPPERCASE sans-serif for the main title (like Oswald), a clean humanist sans for labels and captions. Title sits across the top in bold ink.
+Components: white rounded-rectangle cards with a thin light-grey border and a soft drop shadow, each card carrying a small colourful flat-illustration icon on its left and a short bold label. Thin smooth blue lines with rounded arrowheads connect the elements, curving naturally. Numbered step markers are solid blue filled circles with a white numeral inside.
+One friendly semi-realistic illustrated character: a farmer-style harvester figure in a plain work shirt and straw hat holding a tablet, inside a circle, top-left, with a rounded speech bubble.
+Where hardware appears, draw crisp realistic product mockups: a laptop showing a blue-and-white dashboard.
+Generous white space. Everything aligned to a clean grid. No clutter, no gradients on the background, no photographic textures.
+No company logos or brand marks of any kind anywhere.
+
+TEXT ACCURACY IS CRITICAL: render every word of specified text exactly as written, correctly spelled, fully legible, with no invented, duplicated, garbled or placeholder words. Do not add any text that is not specified. Prefer fewer, larger, perfectly rendered words over many small ones.
+
+LAYOUT:
+Title across the top: "THE HARVESTER PACK"
+Subtitle under it: "What comes in the box"
+Speech bubble from the character: "Clone it. Add your keys. Harvest."
+
+Centre: a large open cardboard box drawn flat, with six white file cards fanned out of it, each card with a small icon and a bold label and one short caption line. Only these exact cards:
+1. "README.md" caption "Start here. Three commands."
+2. "KIT.md" caption "Paste into Claude Code. It sets you up."
+3. "src/" caption "9 files, 2,100 lines. The engine."
+4. "wrangler.toml" caption "Deploys to your Cloudflare."
+5. ".env.example" caption "Your own keys go here."
+6. "LICENSE" caption "MIT. Yours to run."
+
+Bottom strip: a numbered flow of four steps connected by thin blue lines, each a small card with an icon:
+1 "YouTube link" 2 "Gemini watches it" 3 "Claude writes the takeaways" 4 "A page lands in your library"
+
+Bottom-right corner: a small grey card with a grey padlock icon and the label "Not in the box" with two lines: "Your lens rulebooks" and "Your keys and library".

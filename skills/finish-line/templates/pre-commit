@@ -1,0 +1,13 @@
+#!/bin/sh
+# finish-line: local pre-commit hook (install into .git/hooks/pre-commit, chmod +x).
+# Repairs Windows-1252 double-encoding + BOMs in the loop's memory files and validates
+# checks.json, so a builder or bookkeeper can never commit mojibake or a truncated scoreboard.
+files="PROGRESS.md docs/loop-facts.md CLAUDE.md intent/plan.md intent/spec.md"
+staged=$(git diff --cached --name-only)
+for f in $files; do
+  case "$staged" in *"$f"*) node scripts/fix-encoding.mjs "$f" && git add "$f" ;; esac
+done
+case "$staged" in *checks.json*)
+  node scripts/book.mjs --validate checks.json || { echo "pre-commit: checks.json is invalid or truncated — refusing"; exit 1; } ;;
+esac
+exit 0

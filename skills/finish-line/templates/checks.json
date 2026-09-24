@@ -1,0 +1,8 @@
+{
+  "project": "<project>",
+  "dev_url": "<dev url>",
+  "brakes": { "max_tries": 3, "max_turns": 120, "max_hours": 36, "max_output_tokens": 4000000 },
+  "checks": [
+    { "id": "R1", "slice": 1, "title": "<one sentence>", "proof": "<how a machine shows it>", "status": "FAIL", "tries": 0, "evidence": null, "reason": null }
+  ]
+}
