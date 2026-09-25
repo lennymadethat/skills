@@ -45,6 +45,7 @@ One clean white-ground diagram style, palette-swapped per brand. This skill is t
 - Real titles under the friendly ones: "THE LIBRARIAN / MCP memory server", "THE LIBRARY / Hosted database". Name MCP.
 - ONE tidy line before the transforming step; fan-out only after it. Crossing arrows read as two journeys.
 - No presenter character unless asked. The maker-in-a-bubble is off by default.
+- **Characters that stand for AI agents are ROBOTS, never people**. Friendly flat machine: rounded white body, navy joints, soft blue chest panel, rounded rectangular head with two glowing blue eyes and one antenna, no hair, no skin, no human face. A robot may keep a prop that names its job (a straw hat for a harvester, an apron for a sorter). Only a HUMAN role (the owner, a customer, a reviewer) is drawn as a person.
 - Generative video mutates these after ~3 s. To animate,
   rebuild the panels as layered HTML/CSS and screen-record. Never Veo on a full infographic.
 - No brand marks or logos inside the art; the page supplies the logo.
