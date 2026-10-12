@@ -13,14 +13,14 @@ need a value from me.
 
 **1. Install**
 
-```
+```bash
 git clone https://github.com/lennymadethat/skills.git /tmp/lmt-skills
 cp -r /tmp/lmt-skills/skills/* ~/.claude/skills/
 ls ~/.claude/skills
 ```
 
 Confirm all six folders are there: `finish-line`, `logic-review`,
-`fresh-eyes`, `particle-forge`, `scroll-world`, `infographic`. Tell me to open
+`fresh-eyes`, `wrap-it-up`, `how-it-works`, `infographic`. Tell me to open
 a new session so they load, then continue from step 2 in that session.
 
 **2. logic-review, on something real**
@@ -41,19 +41,22 @@ Do not run the loop yet. Read `~/.claude/skills/finish-line/SKILL.md` and its
 (a dev branch that deploys, the hooks, the secrets file, the checker type), and
 which of my repos is closest to ready.
 
-**5. infographic (optional; spends a few cents)**
+**5. wrap-it-up, on current state**
+
+Run `/wrap-it-up` to document what we just tested, generate the session log, and output a clean continuation prompt.
+
+**6. how-it-works (optional dry-run)**
+
+Pick one project in this workspace and tell me the 3-4 core concepts and diagram structure it would decompose for a technical white paper.
+
+**7. infographic (optional; spends a few cents)**
 
 If I want it: set `GEMINI_API_KEY` in the environment, add a row for my brand
 to `~/.claude/skills/infographic/brands.md` measured from my CSS, and run
 `/infographic` for one of my products in the system-diagram shape. Verify every
 label by reading the PNG back.
 
-**6. particle-forge and scroll-world**
-
-Nothing to run. Tell me in three lines each what they would add to my site and
-what assets they would need from me (a model, a video, photos).
-
-**7. Report**
+**8. Report**
 
 List what was installed, what each exercise found, and the one skill I should
 use next week and why.
