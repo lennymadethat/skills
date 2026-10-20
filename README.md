@@ -2,6 +2,8 @@
 
 **Six Claude Code skills, built in daily use, owner-neutral.**
 
+![Six skills for Claude Code: /finish-line builds until every check passes, /logic-review catches quiet wrong answers, /fresh-eyes redesigns a screen from a blank sheet, /wrap-it-up hands off a session with nothing lost, /how-it-works writes the technical white paper, /infographic makes one clean, checked diagram](docs/six-skills.png)
+
 A skill is a folder with a `SKILL.md` that Claude Code loads when you type
 its slash command or describe the job. These six are the core workflows that changed how
 one person ships: a loop that finishes a build without you, a review that
